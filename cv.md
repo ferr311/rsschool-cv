@@ -24,5 +24,22 @@ Currency converter (https://github.com/ferr311/CurrencyConverter) Stack: Navigat
 Dagger Hilt, Retrofit + GSON, ViewModel & LiveData, Lifecycle Scopes, Coroutines.  
 ToDo list offline (https://github.com/ferr311/MyTasks) Stack: Navigation Component, 
 Dagger Hilt, Room, ViewModel & LiveData, Lifecycle Scopes, Coroutines, DataStore.
-
-
+6. Experience: FlexsentLabs (http://flexsentlabs.com)
+Android developer part-time, January 2021 - present.  
+I can:  
+Write code in Java and Kotlin languages  
+Develop architecture for MVVM applications, with a Single Activity approach  
+Layout complex interfaces using ConstraintLayout  
+Work with lists  
+Work with the network  
+Work with SQLite database  
+Work with multithreading. 
+7. Education  
+SKILLBOX
+Profession Android Developer 2020, February 2020  
+UDEMY
+Android development - from scratch to professional. Complete course  
+Moscow State Industrial University,
+Physical chemistry, 2002-2007
+Physicist
+8. English - B1
